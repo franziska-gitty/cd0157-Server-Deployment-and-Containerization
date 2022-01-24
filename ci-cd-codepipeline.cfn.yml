@@ -40,8 +40,8 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
-    Description: franziska-gitty
+    Default: franziska-gitty
+    Description: GitHub username
     MinLength: 3
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub username or organization
